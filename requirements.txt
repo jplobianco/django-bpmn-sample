@@ -1,4 +1,4 @@
 asgiref==3.5.1
-Django==4.0.4
+Django==4.0.7
 django-bpmn==0.0.4
 sqlparse==0.4.2
